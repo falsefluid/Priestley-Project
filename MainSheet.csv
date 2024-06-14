@@ -1,0 +1,9 @@
+ID,FirstName,LastName,Uname,Password,Rpoints,Hours,GoodTransport (Y/N),PrintAmt,BadTransport (Y/N),TotalPoints,CurrentRoom,Debug
+03522314,John,Smith,JS123,12345,22,4,Y,2,N,28,LC.1,
+05263128,Kasing,Yang,KY128,test1,30,3,Y,10,N,26,None,
+05262075,Hristo ,Dachev,HD075,ll@d39k7,14,2,N,3,Y,10,LC.3,
+05262623,Ben,Egerton,BE623,+-#3285,25,2,Y,4,Y,20,P1.2,
+05263669,Lev,Harbovskyi,LH669,test2,16,6,N,2,N,26,None,
+05263952,Elliot,Burns,EB952,1mr3to4,0,0,N,0,Y,0,LC.5,
+05263504,Niamh,Clarke,NC504,45abc#--,24,5,Y,5,N,29,P1.4,
+05263990,Elliot,McCormack,EM990,password3,11,7,N,2,Y,23,P1.5,
