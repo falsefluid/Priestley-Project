@@ -33,8 +33,6 @@ def leaderboard(user_info):
     print("\n<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>=<>")
 
 
-import csv
-
 def friend_leaderboard(user_info):
     filename = "MainSheet.csv"
     users = []
